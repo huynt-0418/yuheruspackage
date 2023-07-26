@@ -1,0 +1,18 @@
+{
+  "name": "yuherus",
+  "version": "1.0.0",
+  "description": "yuherus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynt-0418/yuheruspackage.git"
+  },
+  "keywords": [
+    "yer"
+  ],
+  "author": "yuherus",
+  "license": "ISC"
+}
